@@ -1,0 +1,10 @@
+{
+    "config": {
+        "http": true
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
